@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh 
 - 👀 I’m interested in ... web designing
-- 🌱 I’m currently learning ...hatml and css
+- 🌱 I’m currently learning ...hatml, css and javascript
 - 💞️ I’m looking to collaborate on ...  web development projects
 - 📫 How to reach me ...  lokeshakula604@gmail.com
 
